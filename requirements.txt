@@ -1,0 +1,17 @@
+pycocotools
+click
+easydict
+gdown
+lap
+matplotlib
+onnxruntime
+Pillow
+PyYAML
+scipy
+streamlit
+tensorboard
+torch
+torchaudio
+torchvision
+tqdm
+zipp
