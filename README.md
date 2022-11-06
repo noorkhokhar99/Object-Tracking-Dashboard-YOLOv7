@@ -28,7 +28,7 @@ Simple app consisting of a form where you can upload an image, and see the infer
 
 `streamlit run yolov7-demo.py `
 
-then visit http://localhost:5000/ in your browser:
+then visit http://localhost:8501 in your browser:
 
 <p align="center">
 <img src="https://github.com/noorkhokhar99/Object-Tracking-Dashboard-YOLOv7/blob/main/Screen%20Shot%201444-04-11%20at%2011.08.33%20PM.png">
